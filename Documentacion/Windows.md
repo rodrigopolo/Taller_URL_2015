@@ -1,4 +1,4 @@
-## Instalación de Software para Windows
+## Instalación de Software en Windows
 
 
 [![Tutorial](http://img.youtube.com/vi/DGkDrL4LkQc/0.jpg)](https://youtu.be/DGkDrL4LkQc)
