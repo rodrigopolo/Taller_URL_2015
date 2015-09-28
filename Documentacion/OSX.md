@@ -24,6 +24,7 @@ echo . ~/.bashrc >> ~/.bash_profile
 Luego instalamos Composer ejecutando los siguientes comandos:
 ```
 curl -sS https://getcomposer.org/installer | php
+sudo mkdir -R /usr/local/bin
 sudo mv composer.phar /usr/local/bin/composer
 ```
 
