@@ -10,16 +10,21 @@ La version de PHP es: <?php echo phpversion(); ?>
 </p>
 <p>
 <?php
-$link = mysql_connect('localhost','webappusr','contrasenya'); 
-if (!$link) { 
-	echo('No se pudo conectar a MySQL: ' . mysql_error()); 
+
+$servername = 'localhost';
+$username = 'webappusr';
+$password = 'contrasenya';
+$db = 'webappdb';
+
+$conn = new mysqli($servername, $username, $password, $db);
+
+
+if ($conn->connect_error) {
+	echo ('No se pudo conectar a MySQL: ' . $conn->connect_error);
 }else{
-	if($query_result=mysql_query('SHOW TABLES FROM webappdb')){
-		echo 'Conexión a MySQL y DB funcionan.';
-	}else{
-		echo 'Si hay conexión a MySQL pero no hay acceso a la base de datos.';
-	}
+	echo 'La conexión a MySQL funciona.';
 }
+
 ?>
 </p>
 </body>
