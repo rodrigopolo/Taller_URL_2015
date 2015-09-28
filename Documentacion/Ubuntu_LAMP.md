@@ -15,7 +15,7 @@ Para el taller necesitamos instalar otros paquetes, para esto ingrese los
 siguientes comandos en la termimal ingresando `y` en cada confirmación:
 
 ```
-sudo apt-get install build-essential git-core tasksel php5-gd libssl-dev
+sudo apt-get install build-essential git-core tasksel curl php5-gd libssl-dev
 sudo tasksel install lamp-server
 ```
 
@@ -115,4 +115,12 @@ GRANT ALL PRIVILEGES ON webappdb.* to 'webappusr'@'localhost' identified by 'con
 ```
 
 Para salir de MySQL ingrese `exit` y presione la tecla de `Enter`.
+
+Para installar composer:
+```
+cd
+curl -sS https://getcomposer.org/installer | php
+sudo mv composer.phar /usr/local/bin/composer
+```
+
 
