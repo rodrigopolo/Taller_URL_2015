@@ -1,4 +1,9 @@
 ## Instalación de Software para Windows
+
+
+[![Tutorial](http://img.youtube.com/vi/DGkDrL4LkQc/0.jpg)](https://youtu.be/DGkDrL4LkQc)
+
+
 * Instalar Google Chrome
 * Instalar Sublime Text 3
 * Instalar Git

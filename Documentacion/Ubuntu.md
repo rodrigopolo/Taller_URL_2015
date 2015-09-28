@@ -1,5 +1,7 @@
 ## Setup en Ubuntu
 
+[![Tutorial](http://img.youtube.com/vi/pTgmGmPIty0/0.jpg)](https://youtu.be/pTgmGmPIty0)
+
 ### Actualización del sistema
 
 Para asegurarnos que el sistema esté en óptimas condiciones actualizaremos los 
