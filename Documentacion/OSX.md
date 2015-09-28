@@ -1,5 +1,7 @@
 ## Instalación de Software en OS X
 
+[![Tutorial](http://img.youtube.com/vi/Rzv3IU09Q-A/0.jpg)](https://youtu.be/Rzv3IU09Q-A)
+
 * Instalar Git
 * Instalar Google Chrome
 * Instalar Sublime Text 3
@@ -24,7 +26,7 @@ echo . ~/.bashrc >> ~/.bash_profile
 Luego instalamos Composer ejecutando los siguientes comandos:
 ```
 curl -sS https://getcomposer.org/installer | php
-sudo mkdir -R /usr/local/bin
+sudo mkdir /usr/local/bin
 sudo mv composer.phar /usr/local/bin/composer
 ```
 
