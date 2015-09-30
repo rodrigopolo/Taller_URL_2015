@@ -10,8 +10,8 @@
   * [OS X](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%20Build%203083.dmg)
   * [Ubuntu](http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb)
 * [Git](https://git-scm.com/download/)
-  * [Windows x64](https://github-cloud.s3.amazonaws.com/releases/23216272/53c90a8c-5e43-11e5-922c-e911e5d0df7c.exe?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIMWPLRQEC4XCWWPA%2F20150927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20150927T234642Z&X-Amz-Expires=3600&X-Amz-Signature=f4e4f4b910d2509bb223356318f64bd0d87fa13769bec55b99624d173a227b6d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DGit-2.5.3-64-bit.exe&response-content-type=application%2Foctet-stream)
-  * [Windows x32](https://github-cloud.s3.amazonaws.com/releases/23216272/3854ae24-5e3d-11e5-9832-ad78c5b57527.exe?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIMWPLRQEC4XCWWPA%2F20150927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20150927T234417Z&X-Amz-Expires=3600&X-Amz-Signature=9d42aad29bd0a20a251f1af1ba2609c792ee20860bed0a730d508c3aa87ad0da&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DGit-2.5.3-32-bit.exe&response-content-type=application%2Foctet-stream)
+  * [Windows x64](https://github.com/git-for-windows/git/releases/download/v2.6.0.windows.1/Git-2.6.0-64-bit.exe)
+  * [Windows x32](https://github.com/git-for-windows/git/releases/download/v2.6.0.windows.1/Git-2.6.0-32-bit.exe)
   * OS X
   * Ubuntu
 * WAMP/MAMP/LAMP
