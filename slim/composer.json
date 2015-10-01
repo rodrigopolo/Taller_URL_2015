@@ -1,0 +1,9 @@
+{
+    "name": "Slim Test",
+    "description": "Control de equipo",
+    "type": "app",
+    "license": "GPL",
+    "require": {
+        "slim/slim": "2.6.*"
+    }
+}

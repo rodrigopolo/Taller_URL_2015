@@ -1,0 +1,8 @@
+{
+    "name": "Redbean demo",
+    "type": "app",
+    "license": "GPL",
+    "require": {
+        "gabordemooij/redbean": "4.2.*"
+    }
+}
